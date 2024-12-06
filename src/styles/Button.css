@@ -1,0 +1,26 @@
+body {
+  color: #fff;
+  font-size: 20px;
+}
+button {
+  background: transparent;
+  color: #fff;
+  border: none;
+}
+button {
+  padding: 14px 27px;
+  border-radius: 999px;
+  font-size: 17px;
+  cursor: pointer;
+  border: 1px solid #000;
+
+  background: rgba(0, 89, 255, 0.2);
+}
+button.blue {
+  background: rgba(0, 89, 255, 0.2);
+  border: 1px solid #7090ff;
+}
+button.red {
+  background: rgba(255, 78, 78, 0.2);
+  border: 1px solid #ff4664;
+}
